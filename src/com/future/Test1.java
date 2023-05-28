@@ -21,7 +21,6 @@ public class Test1 {
         System.out.println("请输入对应数字");
         int a=sc.nextInt();
         myprint1(a);
-
     }
 
     }
@@ -98,7 +97,6 @@ public class Test1 {
             System.out.print(num+"  ");
             if (code==num)
                 hh=true;
-
         }
         System.out.println("你的code是  "+code);
         if (!hh){
